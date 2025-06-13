@@ -26,8 +26,10 @@ This work was **developed as a project for LEEC (IST)** to apply EKF-SLAM, both 
 
 ## Repository Structure
 
-- `code/`: EKF-SLAM algorithm implemented in Python
-- `report/`: Final report, including results, figures, and comparison
+- `automatization/`: Scripts for automating tasks like parameter tuning and data extraction
+- `camera/`: Camera calibration files and ROS launch configurations
+- `simulation/`: EKF-SLAM simulation scripts and utilities
+- `utils/`: Helper scripts for plotting, angle calculations, and data processing
 - `README.md`: This document
 - Additional files: configuration files, algorithm parameters, and related resources
 
